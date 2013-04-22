@@ -9,7 +9,7 @@ This is a development release, and not intended to be used on production unless 
 
 # Original HTML5 Source
 Please download original HTML5 template here:
-http://www.zerotheme.com/download/nakfgok/zBoomMusic_zerotheme.com.zip
+http://www.zerotheme.com/319/zboommusic-free-responsive-html5-theme.html
 
 # How to Instal
 Extract into [[Ionize CMS]]'s /themes directory
