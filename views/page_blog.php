@@ -1,6 +1,6 @@
 <ion:partial view="header" />
 <ion:partial view="page_header" />
-	<div class="featured">
+<div class="featured">
 	<div class="wrap-featured zerogrid">
 		<div class="slider">
 			<div class="rslides_container">

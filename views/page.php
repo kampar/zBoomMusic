@@ -18,6 +18,9 @@
 	</div>
 </div>
 
+
+
+
 <!--------------Content--------------->
 <section id="content">
 	<div class="wrap-content zerogrid">
@@ -70,7 +73,6 @@
 			</div><!-- .col-2-3 -->
 			<div class="col-1-3">
 				<div class="wrap-col">
-
 					<ion:articles type="bloc">
 						<ion:article>
 							<div class="box">
@@ -87,7 +89,7 @@
 					</ion:articles>					
 
 					
-				</div>
+				</div><!-- .col-1-3 -->
 			</div>
 		</div><!-- class="row block02" -->
 	</div>
